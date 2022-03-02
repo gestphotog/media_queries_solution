@@ -1,0 +1,27 @@
+/* pixel 2 XL --- 411 X 823
+iphone 5 SE --- 320 X 568
+iphone X --- 375 x 812
+ipad --- 768 x 1024
+ipad pro --- 1024 x 1366
+
+USE INLINE STYLING */
+
+body {
+    padding-top: 50px;
+}
+
+header p {
+    padding-bottom: 15px;
+}
+
+h1{
+    font-size: 7vw;
+}
+
+h3 {
+    font-size: 5vw;
+}
+
+p {
+    font-size: 4vw;
+}

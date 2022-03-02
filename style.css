@@ -1,0 +1,37 @@
+/* global settings */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* global styling */
+body {
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url("/image/background.jpg") no-repeat center center/cover;
+    color: #fff;
+    height: 100vh;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    padding-top: 240px;
+    text-align: center;
+    }
+
+h1, h3 {
+    font-size: 3rem;
+    margin: 1rem 0;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    background: #fff;
+    color: #d41695;
+    padding: 0.75rem 2rem;
+  }
+
+section {
+    margin: 2rem;
+}
